@@ -3,7 +3,7 @@ echo -e "\e[1;34m Setting up tool environment----//--wait--" | lolcat
 sleep 3
 echo "Subscribe to my github repository to continue with the tool" | lolcat
 sleep 6
-xdg-open https://github.com/TermuxHackz
+xdg-open https://github.com/FaiziXd
 echo -e "\e[0;90m =====[Setup complete]====="
 sleep 3
 clear
@@ -13,7 +13,7 @@ logo()
     echo -e "\e[91m\e[5m┏━╸┏┓╻┏━╸┏━┓╺┳┓┏━╸┏━┓   \e[25m\e[93m╻ ╻   \e[5m\e[92m╺┳┓┏━╸┏━╸┏━┓╺┳┓┏━╸┏━┓"
     echo -e "\e[91m\e[5m┣╸ ┃┗┫┃  ┃ ┃ ┃┃┣╸ ┣┳┛   \e[25m\e[93m┏╋┛    \e[5m\e[92m┃┃┣╸ ┃  ┃ ┃ ┃┃┣╸ ┣┳┛"
     echo -e "\e[91m\e[5m┗━╸╹ ╹┗━╸┗━┛╺┻┛┗━╸╹┗╸   \e[25m\e[93m╹ ╹   \e[5m\e[92m╺┻┛┗━╸┗━╸┗━┛╺┻┛┗━╸╹┗╸"
-    echo -e "\e[25m\e[93m  A BAS64 ENCODER AND DECODER BY ANONYMINHACK5" | lolcat
+    echo -e "\e[25m\e[93m  A BAS64 ENCODER AND DECODER BY FaīZu'W" | lolcat
 }
 
 menu()
@@ -62,7 +62,7 @@ pip install lolcat
 pip install figlet
 cd $HOME
 rm -rf Bas64
-git clone https://github.com/TermuxHackz/Bas64
+git clone https://github.com/FaiziXd/Bas64
 cd Bas64
 python install.py
 else 
