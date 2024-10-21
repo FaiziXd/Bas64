@@ -5,7 +5,7 @@ A tool used for encoding and decoding bas64 hash codes in termux.
 
 This script is created in python and bash and installs quickly with great usage.
 # Author
-**AnonyminHack5**
+**Faizi**
 
 # Features of bas64
 [1] It works offline and online but updating and installing must be online.
