@@ -1,5 +1,5 @@
 #bin/python
-#Author: AnonyminHack5 
+#Author: FaīīzU'
 import os
 import time
 import sys
@@ -23,7 +23,7 @@ os.system("cd $HOME")
 os.system("cd Bas64") 
 print(S+ "All packages have been successfully installed ") 
 print("") 
-print(C+ "Thanks for using this tool made by AnonyminHack5")
+print(C+ "Thanks for using this tool made by Faizi")
 print(B+ "Now wait for 3 secs while the tool starts....")
 time.sleep(3)
 os.system("bash encode.sh") 
